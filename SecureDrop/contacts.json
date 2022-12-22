@@ -1,0 +1,39 @@
+{
+    "contacts": [
+        {
+            "J": [
+                {
+                    "conname": "Con",
+                    "conemail": "Tac"
+                },
+                {
+                    "conname": "D",
+                    "conemail": "D"
+                }
+            ]
+        },
+        {
+            "Tac": [
+                {
+                    "conname": "Con",
+                    "conemail": "Tac"
+                },
+                {
+                    "conname": "Ben",
+                    "conemail": "J"
+                }
+            ]
+        },
+        {
+            "D": [
+                {
+                    "conname": "Ben",
+                    "conemail": "J"
+                }
+            ]
+        },
+        {
+            "G": []
+        }
+    ]
+}

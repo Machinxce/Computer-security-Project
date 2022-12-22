@@ -1,0 +1,28 @@
+{
+    "users": [
+        {
+            "name": "Ben",
+            "email": "J",
+            "saltinhex": "bytearray(b'M\\xdej~>\\x1c\\xe9\\xc3\\x13\\xbc\\xd7\\xe32\\xec\\xbdJ')",
+            "hashinhex": "bytearray(b'M\\x85\\x00\\xd9+#/\\xa6\\x13\\xa1\\x02\\x82\\xa3\\x087e\\xa2\\xa3\\xb4Hs\\xdc\\xa3\\xf8L\\x15_\\x0f\\xf7\\xad\\xc1o')"
+        },
+        {
+            "name": "Con",
+            "email": "Tac",
+            "saltinhex": "bytearray(b'\\xb9\\xbb\\xf0\\xd8\\xd86\\xf5\\x89\\xee\\x02\\xcc`\\r\\xf2kk')",
+            "hashinhex": "bytearray(b'\\x98\\xb2`zp)\\xb0\\x9b+\\x02omR=@\\xb9\\xafSQ\\x07V\\xaf\\x8d\\x98y\\xa6\\xccm\\x04\\x98@\\xa4')"
+        },
+        {
+            "name": "D",
+            "email": "D",
+            "saltinhex": "bytearray(b'[\\x03\\xe1g~\\xca8\\x0e\\x9bX\\xf3a8\\xd2\\x00\\x13')",
+            "hashinhex": "bytearray(b'\\xc4\"\\x0b\\x89dA\\xfd\\xa7f\\xb86\\x97\\xcd\\x94\\xed\\xdd~\\xc72\\xac\\xa3\\x01\\x1f\\xfd\\xf5\\x8c$U=#\\xbdX')"
+        },
+        {
+            "name": "G",
+            "email": "G",
+            "saltinhex": "bytearray(b'\\xc1\\xc8$\\xf5\\x8e\\x11\\r\\xd2\\xb8\\xfc\\x80\\xf9K^\\x82\\xd0')",
+            "hashinhex": "bytearray(b'q\\x15h\\'T6\\x0e\\xf8\\xc1\\x86\\xc79\"\\xd0x\\xda\\xe9\\x90k,\\xcb`L\\x13V\\xd6\\x01\\xb1\\xcb\\xe6:]')"
+        }
+    ]
+}
